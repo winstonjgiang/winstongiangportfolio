@@ -24,4 +24,4 @@ CSS Styling:
  - Navigation bar at the top
  - Leveraged nested selectors to specify format
 
-Estimated Time to complete: ~6 hours
+Estimated Time to complete: ~6-7 hours
