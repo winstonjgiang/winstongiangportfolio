@@ -1,6 +1,7 @@
 # winstongiang portfolio
 
 A1 Rubric Points Completed:  
+
 ✓ Readme is complete.  
 ✓ Include basic HTML content.  
 ✓ Includes basic CSS styling.  
@@ -9,7 +10,7 @@ A1 Rubric Points Completed:
 ✓ Passes three validation checks.  
 ✓ Embracing the spirit of the assignment (I can use and update this however I want, for my career, down the line)
  
-Basic HTML Content
+Basic HTML Content:
 - Atleast one image (with alt text)
 - Appropriate headings and paragraph text
 - Links to external pages
