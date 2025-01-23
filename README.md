@@ -1,6 +1,6 @@
 # winstongiang portfolio
 
-A1 Rubric Points Completed:
+A1 Rubric Points Completed:  
 ✓ Readme is complete.  
 ✓ Include basic HTML content.  
 ✓ Includes basic CSS styling.  
