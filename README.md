@@ -1,12 +1,12 @@
 # winstongiang portfolio
 
 A1 Rubric Points Completed:
-✓ Readme is complete.
-✓ Include basic HTML content.
-✓ Includes basic CSS styling.
-✓ Includes an advanced feature.
-✓ Responsive Layout
-✓ Passes three validation checks.
+✓ Readme is complete.  
+✓ Include basic HTML content.  
+✓ Includes basic CSS styling.  
+✓ Includes an advanced feature.  
+✓ Responsive Layout  
+✓ Passes three validation checks.  
 ✓ Embracing the spirit of the assignment (I can use and update this however I want, for my career, down the line)
  
 Basic HTML Content
